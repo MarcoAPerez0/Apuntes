@@ -1,0 +1,7 @@
+Como dirigir archivos del repositorio local a un github 
+1.- usar el comando Git init
+2.- Usar el comando git status para confirmar que archivos vamos a subir
+3.- Confirmar que los archivos que tenemos sean los que vamos a subir
+4.- Usar el comando git add .
+5.- Usar el comando git global user.name y añadir nuestro usuario con las tarjetas adecuadas
+6.- Usar el comando git global user.email y añadir el correo con el que hicimos nuestra cuenta de github
